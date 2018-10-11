@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=K2D:100i|Playfair+Display:400i');
+body{
+    background-color: blanchedalmond;
+    font-family: 'Playfair Display', serif;
+    color: cornflowerblue;
+}
+header{
+    background-color: aquamarine;
+}
+@media (min-width: 921px){
+    body{
+        background-color: grey;
+        color: white;
+    }
+}
+ul{
+	padding: 10;
+	margin: 10;
+}
